@@ -1,0 +1,68 @@
+﻿Company_name,Ball_name,LBS,RG,DIFF,PSA,Coverstock,Weight_block,Factory_finish,Color,Flare_potential,Fragnance
+STORM,CODE BATTLE,16,2.49,0.056,0.022,Reative Hybrid,RAD4TM Core,3000-grit Abralon,"Blackberry, black, white",High,Candy Apple
+STORM,CODE BATTLE,15,2.50,0.058,0.020,Reative Hybrid,RAD4TM Core,3000-grit Abralon,"Blackberry, black, white",High,Candy Apple
+STORM,CODE BATTLE,14,2.55,0.056,0.014,Reative Hybrid,RAD4TM Core,3000-grit Abralon,"Blackberry, black, white",High,Candy Apple
+STORM,CODE BATTLE,13,2.63,0.039,0.011,Reative Hybrid,RAD4TM Core,3000-grit Abralon,"Blackberry, black, white",High,Candy Apple
+STORM,CODE BATTLE,12,2.72,0.022,0.006,Reative Hybrid,RAD4TM Core,3000-grit Abralon,"Blackberry, black, white",High,Candy Apple
+STORM,DOMINATION BURGUNDY,16,2.47,0.055,0.023,Reative Solid,RAD+TM Core,3000-grit Abralon,Burgundy,High,Cherry Berry Smoothie
+STORM,DOMINATION BURGUNDY,15,2.49,0.047,0.026,Reative Solid,RAD+TM Core,3000-grit Abralon,Burgundy,High,Cherry Berry Smoothie
+STORM,DOMINATION BURGUNDY,14,2.55,0.055,0.017,Reative Solid,RAD+TM Core,3000-grit Abralon,Burgundy,High,Cherry Berry Smoothie
+STORM,DOMINATION BURGUNDY,13,2.63,0.039,0.011,Reative Solid,RAD+TM Core,3000-grit Abralon,Burgundy,High,Cherry Berry Smoothie
+STORM,DOMINATION BURGUNDY,12,2.72,0.022,0.006,Reative Solid,RAD+TM Core,3000-grit Abralon,Burgundy,High,Cherry Berry Smoothie
+STORM,REAL ABSOLUTE,16,2.48,0.048,0.020,Reactive Pearl,SentinelTM Core,1500-grit Polished,"Fuchsia, Violet, Coal",High,Grape Punch
+STORM,REAL ABSOLUTE,15,2.48,0.050,0.021,Reactive Pearl,SentinelTM Core,1500-grit Polished,"Fuchsia, Violet, Coal",High,Grape Punch
+STORM,REAL ABSOLUTE,14,2.54,0.045,0.018,Reactive Pearl,SentinelTM Core,1500-grit Polished,"Fuchsia, Violet, Coal",High,Grape Punch
+STORM,REAL ABSOLUTE,13,2.57,0.032,0.010,Reactive Pearl,SentinelTM Core,1500-grit Polished,"Fuchsia, Violet, Coal",High,Grape Punch
+STORM,REAL ABSOLUTE,12,2.59,0.029,0.008,Reactive Pearl,SentinelTM Core,1500-grit Polished,"Fuchsia, Violet, Coal",High,Grape Punch
+STORM,DARK PHYSIX,16,2.48,0.054,0.017,Reative Hybrid,AtomicTM Core,Reacta Gloss,3-tone Black,High,Fruit Trifle
+STORM,DARK PHYSIX,15,2.48,0.053,0.017,Reative Hybrid,AtomicTM Core,Reacta Gloss,3-tone Black,High,Fruit Trifle
+STORM,DARK PHYSIX,14,2.53,0.052,0.015,Reative Hybrid,AtomicTM Core,Reacta Gloss,3-tone Black,High,Fruit Trifle
+STORM,DARK PHYSIX,13,2.57,0.032,0.010,Reative Hybrid,AtomicTM Core,Reacta Gloss,3-tone Black,High,Fruit Trifle
+STORM,DARK PHYSIX,12,2.59,0.029,0.008,Reative Hybrid,AtomicTM Core,Reacta Gloss,3-tone Black,High,Fruit Trifle
+STORM,DNA,16,2.47,0.050,0.021,Reative Solid,SupercoilTM Core,2000-grit Abralon,"Red, Black, Violet",High,Strawberry Shortcake
+STORM,DNA,15,2.47,0.053,0.023,Reative Solid,SupercoilTM Core,2000-grit Abralon,"Red, Black, Violet",High,Strawberry Shortcake
+STORM,DNA,14,2.53,0.048,0.020,Reative Solid,SupercoilTM Core,2000-grit Abralon,"Red, Black, Violet",High,Strawberry Shortcake
+STORM,DNA,13,2.57,0.032,0.010,Reative Solid,SupercoilTM Core,2000-grit Abralon,"Red, Black, Violet",High,Strawberry Shortcake
+STORM,DNA,12,2.59,0.029,0.008,Reative Solid,SupercoilTM Core,2000-grit Abralon,"Red, Black, Violet",High,Strawberry Shortcake
+STORM,PERFECT LOCK,16,2.47,0.055,0.019,Reative Solid,RAD-XTM Core,3000-grit Abralon,"Turquoise, Violet, Black",High,Fruit Trifle
+STORM,PERFECT LOCK,15,2.48,0.054,0.018,Reative Solid,RAD-XTM Core,3000-grit Abralon,"Turquoise, Violet, Black",High,Fruit Trifle
+STORM,PERFECT LOCK,14,2.52,0.054,0.017,Reative Solid,RAD-XTM Core,3000-grit Abralon,"Turquoise, Violet, Black",High,Fruit Trifle
+STORM,PERFECT LOCK,13,2.57,0.032,0.010,Reative Solid,RAD-XTM Core,3000-grit Abralon,"Turquoise, Violet, Black",High,Fruit Trifle
+STORM,PERFECT LOCK,12,2.59,0.029,0.008,Reative Solid,RAD-XTM Core,3000-grit Abralon,"Turquoise, Violet, Black",High,Fruit Trifle
+STORM,THE CODE,16,2.49,0.056,0.022,Reative Solid,RAD4TM Core,1500-grit Polished,Navy,High,Sangria
+STORM,THE CODE,15,2.50,0.058,0.020,Reative Solid,RAD4TM Core,1500-grit Polished,Navy,High,Sangria
+STORM,THE CODE,14,2.55,0.056,0.014,Reative Solid,RAD4TM Core,1500-grit Polished,Navy,High,Sangria
+STORM,THE CODE,13,2.63,0.039,0.011,Reative Solid,RAD4TM Core,1500-grit Polished,Navy,High,Sangria
+STORM,THE CODE,12,2.72,0.022,0.006,Reative Solid,RAD4TM Core,1500-grit Polished,Navy,High,Sangria
+STORM,ABSOLUTE,16,2.48,0.048,0.020,Reative Hybrid,SentinelTM Core,Reacta Gloss,"Copperhead, Jade, Phantom Black",High,Orange Cream Soda
+STORM,ABSOLUTE,15,2.48,0.050,0.021,Reative Hybrid,SentinelTM Core,Reacta Gloss,"Copperhead, Jade, Phantom Black",High,Orange Cream Soda
+STORM,ABSOLUTE,14,2.54,0.045,0.018,Reative Hybrid,SentinelTM Core,Reacta Gloss,"Copperhead, Jade, Phantom Black",High,Orange Cream Soda
+STORM,ABSOLUTE,13,2.57,0.032,0.010,Reative Hybrid,SentinelTM Core,Reacta Gloss,"Copperhead, Jade, Phantom Black",High,Orange Cream Soda
+STORM,ABSOLUTE,12,2.59,0.029,0.008,Reative Hybrid,SentinelTM Core,Reacta Gloss,"Copperhead, Jade, Phantom Black",High,Orange Cream Soda
+STORM,FATE,16,2.52,0.052,,Reactive Pearl,F-8TM Core,1500-grit Polished,Sapphire,High,Cherry Berry Smoothie
+STORM,FATE,15,2.52,0.053,,Reactive Pearl,F-8TM Core,1500-grit Polished,Sapphire,High,Cherry Berry Smoothie
+STORM,FATE,14,2.54,0.052,,Reactive Pearl,F-8TM Core,1500-grit Polished,Sapphire,High,Cherry Berry Smoothie
+STORM,FATE,13,2.59,0.045,,Reactive Pearl,F-8TM Core,1500-grit Polished,Sapphire,High,Cherry Berry Smoothie
+STORM,MARVEL U-NXT,16,2.48,0.052,,Urethane,CentripetalTM Core,4K-Fast,Burgundy,High,
+STORM,MARVEL U-NXT,15,2.48,0.050,,Urethane,CentripetalTM Core,4K-Fast,Burgundy,High,
+STORM,MARVEL U-NXT,14,2.53,0.049,,Urethane,CentripetalTM Core,4K-Fast,Burgundy,High,
+STORM,MARVEL U-NXT,13,2.59,0.045,,Urethane,CentripetalTM Core,4K-Fast,Burgundy,High,
+STORM,MARVEL U-NXT,12,2.65,0.035,,Urethane,CentripetalTM Core,4K-Fast,Burgundy,High,
+STORM,FIGHT ROAD,16,2.52,0.058,,Reactive Pearl,Inverted Fe2 TechnologyTM,1500-grit Polished,"Purple, White",Medium-High,Combination Berry
+STORM,FIGHT ROAD,15,2.57,0.046,,Reactive Pearl,Inverted Fe2 TechnologyTM,1500-grit Polished,"Purple, White",Medium-High,Combination Berry
+STORM,FIGHT ROAD,14,2.58,0.037,,Reactive Pearl,Inverted Fe2 TechnologyTM,1500-grit Polished,"Purple, White",Medium-High,Combination Berry
+STORM,FIGHT ROAD,13,2.59,0.045,,Reactive Pearl,Inverted Fe2 TechnologyTM,1500-grit Polished,"Purple, White",Medium-High,Combination Berry
+STORM,FIGHT ROAD,12,2.65,0.035,,Reactive Pearl,Inverted Fe2 TechnologyTM,1500-grit Polished,"Purple, White",Medium-High,Combination Berry
+STORM,ELECTRIFY B/S/Y,15,2.51,0.030,,Reactive Pearl,CircuitTM Core,Reacta Gloss,"Black, Silver, Yellow",Medium,Ambrosia
+STORM,ELECTRIFY B/S/Y,14,2.53,0.031,,Reactive Pearl,CircuitTM Core,Reacta Gloss,"Black, Silver, Yellow",Medium,Ambrosia
+STORM,ELECTRIFY B/S/Y,13,2.59,0.045,,Reactive Pearl,CircuitTM Core,Reacta Gloss,"Black, Silver, Yellow",Medium,Ambrosia
+STORM,ELECTRIFY B/S/Y,12,2.65,0.035,,Reactive Pearl,CircuitTM Core,Reacta Gloss,"Black, Silver, Yellow",Medium,Ambrosia
+STORM,TROPICAL SURGE (G/P),16,2.57,0.025,,Reactive Pearl,SurgeTM Core,Reacta Gloss,"Gold, Purple",Medium,Red Hot Cinnamon
+STORM,TROPICAL SURGE (G/P),15,2.58,0.024,,Reactive Pearl,SurgeTM Core,Reacta Gloss,"Gold, Purple",Medium,Red Hot Cinnamon
+STORM,TROPICAL SURGE (G/P),14,2.60,0.025,,Reactive Pearl,SurgeTM Core,Reacta Gloss,"Gold, Purple",Medium,Red Hot Cinnamon
+STORM,TROPICAL SURGE (G/P),13,2.62,0.021,,Reactive Pearl,SurgeTM Core,Reacta Gloss,"Gold, Purple",Medium,Red Hot Cinnamon
+STORM,TROPICAL SURGE (G/P),12,2.64,0.020,,Reactive Pearl,SurgeTM Core,Reacta Gloss,"Gold, Purple",Medium,Red Hot Cinnamon
+STORM,MIX-MAGENTA/GREY/PURPLE,15,2.69,0.006,,Urethane,Traditional 3-piece Core,3500-grit Polished,"Magenta, Grey, Purple",Low,
+STORM,MIX-MAGENTA/GREY/PURPLE,14,2.69,0.006,,Urethane,Traditional 3-piece Core,3500-grit Polished,"Magenta, Grey, Purple",Low,
+STORM,MIX-MAGENTA/GREY/PURPLE,13,2.71,0.005,,Urethane,Traditional 3-piece Core,3500-grit Polished,"Magenta, Grey, Purple",Low,
+STORM,MIX-MAGENTA/GREY/PURPLE,12,2.72,0.005,,Urethane,Traditional 3-piece Core,3500-grit Polished,"Magenta, Grey, Purple",Low,
